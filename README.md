@@ -16,10 +16,10 @@
   <a href="mailto:tp04045@gachon.ac.kr">
     <img src="https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=Gmail&logoColor=white" alt="Email me"/>
   </a>
-  <a href="https://scholar.google.com/citations?user=QOt0-48AAAAJ">
+  <a href="https://scholar.google.com/citations?hl=ko&user=NWjij-YAAAAJ">
     <img src="https://img.shields.io/badge/Google%20Scholar-4285F4?style=flat-square&logo=googlescholar&logoColor=white" alt="Google Scholar"/>
   </a>
-  <a href="https://orcid.org/0009-0006-7853-4207">
+  <a href="https://orcid.org/0009-0004-1505-0737">
     <img src="https://img.shields.io/badge/ORCID-A6CE39?style=flat-square&logo=orcid&logoColor=white" alt="ORCID"/>
   </a>
 </div>
